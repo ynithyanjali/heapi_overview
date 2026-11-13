@@ -12,7 +12,7 @@ It's a prototype which you will find in the website and you try it now!
 It gives you one place to save the things you reach for when you feel overwhelmed, like a favorite song, a comfort show or a note to yourself without having spend your time by searching for it when you need it.
 You can open them in ine tap and your lists stays on your device.
 
-P.S : Currently trying to figure out ways to save the data you keep when you clear your cache or browser history.
+P.S : Currently trying to figure out ways to save the data you log when you clear your cache or browser history.
 
 Try here: https://heapi.app/calm/
 
